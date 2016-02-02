@@ -1,7 +1,7 @@
-name: michaeltank
+name: Michael Tank
 favicon: null
-layout_spectrum: 0.2039764393121004
-typography_spectrum: 0.23507527424953878
+layout_spectrum: 0.45114
+typography_spectrum: 0.88324
 title: Michael Tank
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.33832049439661205
-  lightness: 0.14799870341084898
-  saturation: 0.40688403765670955
+    - '#ffe5be'
+    - '#180f06'
+    - '#d0ac72'
+    - '#d4650c'
+    - '#6a3e21'
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.9375
   rhythmicContrast: 0.879300159169361
 purpose: []
