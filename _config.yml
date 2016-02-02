@@ -1,7 +1,15 @@
-name: michaeltank
-favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.2350752742495388
+favicon: null
+name: michaeltank
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -15,26 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  bucket: null
+  domain: null
 color:
-  brandColors:
-    - '#a6c3ff'
-    - '#101010'
-    - '#4d5673'
-    - '#806e4a'
-    - '#1246ac'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.8125
+  brandStrength: 0.5574468
+  lightness: 0.147998703410849
+  saturation: 0.4068840376567096
   rhythmicContrast: 0.879300159169361
-purpose: []
+  brandColors:
+    - '#ABC5FF'
+    - '#16171F'
+    - '#4C5476'
+    - '#6E7FA3'
+    - '#806D4B'
+typography_spectrum: 0.2350752742495388
