@@ -2,12 +2,13 @@ name: michaeltank
 favicon: null
 layout_spectrum: 0.2039764393121004
 typography_spectrum: 0.23507527424953878
+title: Michael Tank
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-3195758-1
   facebook: null
   twitter: null
 opengraph:
