@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Michael Tank
 cta:
   domain: null
   bucket: null
