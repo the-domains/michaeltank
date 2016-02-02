@@ -1,29 +1,40 @@
-name: Michael Tank
+layout_spectrum: 1
 favicon: null
-layout_spectrum: 0.45114
-typography_spectrum: 0.88324
-title: Michael Tank
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: michaeltank
+purpose: []
 analytics:
-  google: UA-3195758-1
-  facebook: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.338320494396612
+  saturation: 0.4068840376567096
   brandColors:
-    - '#ffe5be'
-    - '#180f06'
-    - '#d0ac72'
-    - '#d4650c'
-    - '#6a3e21'
-  brandStrength: 0.5
-  lightness: 0.4375
-  saturation: 0.9375
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  lightness: 0.147998703410849
   rhythmicContrast: 0.879300159169361
-purpose: []
+typography_spectrum: 0.2350752742495388
