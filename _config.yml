@@ -1,0 +1,28 @@
+name: michaeltank
+favicon: null
+layout_spectrum: 0.2039764393121004
+typography_spectrum: 0.23507527424953878
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.33832049439661205
+  lightness: 0.14799870341084898
+  saturation: 0.40688403765670955
+  rhythmicContrast: 0.879300159169361
+purpose: []
