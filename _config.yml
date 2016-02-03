@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Michael Tank
+title: Michael Tank - Fields of Operation
 cta:
   domain: null
   bucket: null
