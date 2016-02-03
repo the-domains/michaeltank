@@ -4,7 +4,7 @@
         <description><![CDATA[Michael Tank]]></description>
         <link>http://michaeltank.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 21:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 00:36:41 GMT</lastBuildDate>
         <atom:link href="http://michaeltank.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://michaeltank.org/35060293-dbc2-4042-9eab-7ae57fdeb01c/index.html</link>
             <guid isPermaLink="false">35060293-dbc2-4042-9eab-7ae57fdeb01c</guid>
             <pubDate>Tue, 02 Feb 2016 21:43:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coaching]]></title>
+            <description><![CDATA[<h1>Coaching</h1>]]></description>
+            <link>http://michaeltank.org/coaching/index.html</link>
+            <guid isPermaLink="false">60388914-c094-4d63-a921-5103dd76f491</guid>
+            <pubDate>Wed, 03 Feb 2016 00:36:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
